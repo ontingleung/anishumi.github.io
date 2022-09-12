@@ -5,3 +5,15 @@
     padding: 0;
     margin: 0;
 }
+
+
+.logo {
+    display: flex;
+    justify-content: space-evenly;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    padding: 100px;
+}
